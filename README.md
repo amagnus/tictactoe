@@ -1,3 +1,3 @@
 # tictactoe
-Another take on the classic tic-tac-toe game
 
+Run Playground class to get started.
